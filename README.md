@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&descAlign=50"/>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=22"/>
 
-<!-- Dynamic Typing Animation -->
+<!-- Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Welcome+to+My+GitHub+Profile+%F0%9F%91%8B;Building+Expertise+in+C%2B%2B+%F0%9F%92%BB;Passionate+About+Clean+Code+%E2%9C%A8;Every+Challenge+is+an+Opportunity+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B;Mastering+C%2B%2B+Programming+%F0%9F%92%BB;Passionate+Problem+Solver+%E2%9C%A8;Building+Strong+Foundations+%F0%9F%9A%80;Let's+Code+Together!+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Professional Badges -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ZainabGondal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,10 +18,13 @@
   <a href="https://github.com/zainabgondal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:zz472125@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zainabgondal&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=zainabgondal&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/zainabgondal?label=Stars&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Stars"/>
 </p>
 
 <!-- Elegant Divider -->
@@ -31,41 +34,39 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="wave" width="35"/> **Professional Summary**
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="wave" width="35"/> About Me
 
-<img align="right" alt="Coding Animation" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <div align="left">
 
-I am a dedicated **Computer Science student** with a strong passion for software development and problem-solving. Currently focused on mastering **C++ programming**, I am building a solid foundation in core computer science principles and modern development practices.
+I am a **Computer Science student** passionate about software development and problem-solving. Currently focused on mastering **C++ programming**, building strong foundations in algorithms, data structures, and clean code practices.
 
-### 🎯 **Core Competencies**
+### 🎯 Professional Profile
 
 ```cpp
 namespace ZainabAbdulQayoom {
-    class ProfessionalProfile {
+    class Developer {
     private:
-        std::string currentRole = "Computer Science Student";
-        std::string specialization = "C++ Development";
-        std::string location = "Karachi, Pakistan";
-        std::vector<std::string> focus = {
-            "Data Structures & Algorithms",
-            "Object-Oriented Programming",
-            "Problem Solving & Logic Building",
-            "Clean Code Practices"
-        };
+        string role = "Computer Science Student";
+        string focus = "C++ Programming & DSA";
+        string location = "Karachi, Pakistan 🇵🇰";
         
     public:
-        void displayMission() {
-            std::cout << "🎯 Building robust software solutions\n";
-            std::cout << "📚 Continuous learning and improvement\n";
-            std::cout << "🤝 Contributing to open-source community\n";
-            std::cout << "💡 Transforming ideas into code\n";
+        void showPassion() {
+            cout << "🔭 Mastering C++ fundamentals\n";
+            cout << "🌱 Learning DSA & Algorithms\n";
+            cout << "💪 Building strong logic\n";
+            cout << "🚀 Growing every day!\n";
         }
         
-        std::string getVision() {
-            return "Aspiring to become a proficient software engineer "
-                   "who writes elegant, efficient, and maintainable code.";
+        vector<string> getSkills() {
+            return {"C++", "Problem Solving", 
+                    "Algorithms", "Git/GitHub"};
+        }
+        
+        string getMotto() {
+            return "Every error is a lesson! 💡";
         }
     };
 }
@@ -75,37 +76,36 @@ namespace ZainabAbdulQayoom {
 
 <br clear="right"/>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="fire" width="35"/> **Current Focus & Objectives**
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="fire" width="35"/> Current Focus
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📌 **What I'm Working On**
+### 📌 What I'm Working On
 
-- **🔭 Primary Focus:** Mastering C++ fundamentals and advanced concepts
-- **🌱 Currently Learning:** Data Structures, Algorithms, and Design Patterns
-- **👯 Open to Collaborate:** Educational C++ projects and coding challenges
-- **🤝 Seeking Guidance:** Best practices in software architecture and optimization
-- **💬 Happy to Discuss:** C++ development, problem-solving strategies, learning resources
-- **⚡ Philosophy:** *"Quality over quantity, learning over knowing"*
+- 🔭 **Focus:** C++ Fundamentals & Core Concepts
+- 🌱 **Learning:** Data Structures & Algorithms
+- 👯 **Collaborate:** Beginner-friendly C++ Projects
+- 🤝 **Need Help:** Clean & Efficient Coding
+- 💬 **Ask Me About:** C++ Basics & Learning Journey
+- ⚡ **Fun Fact:** Debugging = Learning! 🐛
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 **Professional Goals (2026)**
+### 🎯 2026 Goals
 
-- ✅ **Achieved:** Solid grasp of C++ fundamentals
-- 🔄 **In Progress:** Complete 10+ substantial C++ projects
-- 🔄 **Planned:** Active contributions to open-source repositories
-- 🔄 **Target:** Master data structures and algorithm implementation
-- 🔄 **Aspiration:** Participate in competitive programming contests
-- 🔄 **Vision:** Build a comprehensive portfolio of quality work
+- [x] ✅ Master C++ Fundamentals
+- [ ] 🔄 Build 10+ Practice Projects
+- [ ] 🔄 Contribute to Open Source
+- [ ] 🔄 Learn DSA Comprehensively
+- [ ] 🔄 Join Coding Competitions
+- [ ] 🔄 Build Strong Portfolio
 
 </td>
 </tr>
@@ -113,34 +113,37 @@ namespace ZainabAbdulQayoom {
 
 <br>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="tech" width="35"/> **Technical Proficiencies**
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="tech" width="35"/> Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
+### Programming Languages
 
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
 <br><strong>C++</strong>
 </td>
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="C" />
 <br><strong>C</strong>
 </td>
 </tr>
 </table>
 
-### **Development Tools & Environment**
+### Development Tools
 
 <table>
 <tr>
+<td align="center" width="110">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<br><strong>GitHub</strong>
+</td>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
 <br><strong>VS Code</strong>
@@ -150,17 +153,13 @@ namespace ZainabAbdulQayoom {
 <br><strong>Git</strong>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
 <br><strong>Linux</strong>
 </td>
 </tr>
 </table>
 
-### **Technology Badges**
+<br>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -173,76 +172,64 @@ namespace ZainabAbdulQayoom {
 
 <br>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="stats" width="35"/> **GitHub Performance Metrics**
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="stats" width="35"/> GitHub Statistics
 
 <div align="center">
 
-### **Profile Statistics**
-
-<p align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages"/>
-</p>
-
-<br>
-
-### **Repository Insights**
-
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">
-<img src="https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Followers"/>
+<td width="50%">
+
+### 📊 Profile Stats
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/github/stars/zainabgondal?label=Total%20Stars&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Stars"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Repositories-View%20All-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Contributions-Active-6366F1?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
+<td width="50%">
+
+### 🔥 Contribution Streak
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zainabgondal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FB923C&currStreakLabel=6366F1" alt="GitHub Streak"/>
+
 </td>
 </tr>
 </table>
 
 <br>
 
-### **Contribution Activity**
+### 📈 Contribution Graph
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<br>
+
+### 🏆 GitHub Achievements
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 
 </div>
 
 <br>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="learning" width="35"/> **Learning & Development Roadmap**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="learning" width="35"/> Learning Journey
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#C9D1D9','lineColor':'#6366F1','secondaryColor':'#4F46E5','tertiaryColor':'#4338CA','fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#C9D1D9','lineColor':'#6366F1','secondaryColor':'#4F46E5','tertiaryColor':'#4338CA'}}}%%
 graph LR
     A[🎯 C++ Basics] --> B[🔄 Control Flow]
-    B --> C[📦 Functions & Arrays]
-    C --> D[🏗️ OOP Principles]
+    B --> C[📦 Functions]
+    C --> D[🏗️ OOP]
     D --> E[📊 Data Structures]
     E --> F[🧮 Algorithms]
     F --> G[⚡ Advanced C++]
-    G --> H[🚀 System Design]
     
     style A fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
     style B fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
@@ -251,31 +238,29 @@ graph LR
     style E fill:#4338CA,stroke:#C9D1D9,stroke-width:2px,color:#fff
     style F fill:#3730A3,stroke:#C9D1D9,stroke-width:2px,color:#fff
     style G fill:#312E81,stroke:#C9D1D9,stroke-width:2px,color:#fff
-    style H fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
 ```
 
 </div>
 
 <br>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="philosophy" width="35"/> **Professional Philosophy**
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="philosophy" width="35"/> My Philosophy
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="100%">
+<td align="center">
 
-### *"Excellence is not a destination, but a continuous journey"*
+### *"Code is poetry written in logic"*
 
-**My approach to software development is rooted in continuous learning, disciplined practice, and a commitment to writing code that is not only functional but elegant and maintainable. Every challenge is an opportunity to grow, every error is a lesson in disguise, and every successful compilation is a step toward mastery.**
+**I believe that every line of code tells a story, every bug is a teacher, and every successful compilation is a victory. My journey in computer science is not just about learning syntax—it's about developing problem-solving skills, building logical thinking, and creating elegant solutions.**
 
-**I believe in the power of clean code, the importance of good documentation, and the value of collaboration. As I build my skills in C++, I'm not just learning syntax—I'm developing the mindset of a professional software engineer.**
+**I embrace challenges, learn from failures, and celebrate progress. With dedication and continuous learning, I'm building the foundation to become a skilled software developer who writes clean, efficient, and meaningful code.**
 
 </td>
 </tr>
@@ -283,61 +268,59 @@ graph LR
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 
 <br>
 
-<!-- Professional Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="connect" width="35"/> **Professional Network**
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="connect" width="35"/> Let's Connect
 
 <div align="center">
 
-### **Let's Connect and Collaborate**
-
-<br>
+### **Get In Touch**
 
 <a href="https://www.linkedin.com/in/ZainabGondal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/zainabgondal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+<a href="mailto:zz472125@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-### **Support My Work**
+### ⭐ Support My Journey
 
-<p>
-If you find my projects valuable or my code helpful, please consider giving them a ⭐<br>
-Your support motivates me to continue learning and contributing to the community!
-</p>
+**If you find my projects helpful or interesting, please consider giving them a star!**  
+**Your support motivates me to keep learning and growing.**
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainabgondal/zainabgondal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainabgondal/zainabgondal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zainabgondal/zainabgondal/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 <br>
 
-<!-- Snake Contribution Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-</div>
-
-<br>
-
-<!-- Professional Footer with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn"/>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
 <div align="center">
 
@@ -345,18 +328,16 @@ Your support motivates me to continue learning and contributing to the community
 
 <br>
 
-### 💼 **Professional Portfolio by Zainab Abdul Qayoom**
+### 💜 Crafted with Passion by Zainab Abdul Qayoom
 
-**Committed to Excellence in Computer Science & Software Development**
-
-<br>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zainabgondal.zainabgondal)
-![GitHub followers](https://img.shields.io/github/followers/zainabgondal?style=social)
-![GitHub stars](https://img.shields.io/github/stars/zainabgondal?style=social)
+**Committed to Excellence in Computer Science**
 
 <br>
 
-*Last Updated: January 2026 • Crafted with 💜 and dedication*
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zainabgondal.zainabgondal&left_color=6366F1&right_color=4F46E5)
+
+<br>
+
+*Last Updated: January 2026*
 
 </div>

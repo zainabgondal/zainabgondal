@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&descAlign=50"/>
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -337,7 +337,7 @@ Your support motivates me to continue learning and contributing to the community
 
 ### 💼 **Professional Portfolio by Zainab Abdul Qayoom**
 
-**Committed to Excellence in Software Engineering**
+**Committed to Excellence in Computer Science & Software Development**
 
 <br>
 

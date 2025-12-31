@@ -182,20 +182,35 @@ namespace ZainabAbdulQayoom {
 
 <div align="center">
 
-### **Statistical Overview**
+### **Profile Statistics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=zainabgondal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FB923C&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=C9D1D9&border_radius=10" alt="GitHub Streak"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=10&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br>
 
-### **Language Distribution**
+### **Repository Insights**
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=10&langs_count=8&hide=html,css" alt="Top Languages"/>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Followers"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/zainabgondal?label=Total%20Stars&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Stars"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Repositories-View%20All-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Contributions-Active-6366F1?style=for-the-badge&logo=git&logoColor=white" alt="Contributions"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -203,14 +218,6 @@ namespace ZainabAbdulQayoom {
 
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<br>
-
-### **Achievement Showcase**
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>

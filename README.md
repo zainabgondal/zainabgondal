@@ -180,15 +180,6 @@ namespace ZainabAbdulQayoom {
 
 <div align="center">
 
-### 📊 Profile Overview
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</p>
-
-<br><br>
-
 ### 📈 Contribution Activity
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -210,6 +201,16 @@ namespace ZainabAbdulQayoom {
 </td>
 </tr>
 </table>
+
+<br>
+
+### 📊 Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Learning-Data%20Structures-6366F1?style=for-the-badge&logo=databricks&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Developer-success?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+</p>
 
 </div>
 

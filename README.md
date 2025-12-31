@@ -180,34 +180,34 @@ namespace ZainabAbdulQayoom {
 
 <div align="center">
 
-<table width="100%">
+### 📊 Profile Overview
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+### 📈 Contribution Activity
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
+
+<br><br>
+
+### 📌 Repository Insights
+
+<table align="center">
 <tr>
-<td width="50%">
-
-### 📊 Profile Stats
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
-
+<td align="center" width="150">
+<img src="https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Followers"/>
 </td>
-<td width="50%">
-
-### 🔥 Contribution Streak
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zainabgondal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FB923C&currStreakLabel=6366F1" alt="GitHub Streak"/>
-
+<td align="center" width="150">
+<img src="https://img.shields.io/github/stars/zainabgondal?label=Total%20Stars&style=for-the-badge&color=6366F1&labelColor=0D1117" alt="Stars"/>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Repositories-Public-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </td>
 </tr>
 </table>
-
-<br>
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-
-<br>
-
-### 🏆 GitHub Achievements
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 
 </div>
 

@@ -182,8 +182,10 @@ namespace ZainabAbdulQayoom {
 
 ### 📊 Profile Overview
 
+<p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</p>
 
 <br><br>
 

@@ -2,9 +2,9 @@
 
 # 💜 Welcome to My Coding Universe 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=42&fontAlignY=30&desc=Computer%20Science%20Student%20|%20Java%20%26%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=42&fontAlignY=30&desc=Computer%20Science%20Student%20|%20Java%20and%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=💻+Computer+Science+Student;☕+Java+%26+C%2B%2B+Developer;📊+Data+Structures+%26+Algorithms;🎨+Frontend+Development+Explorer;🚀+Learning+%26+Growing+Every+Day!;💡+Code+is+Poetry+Written+in+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Java+and+CPP+Developer;Data+Structures+and+Algorithms;Frontend+Development+Explorer;Learning+and+Growing+Every+Day;Code+is+Poetry+Written+in+Logic)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zainabgondal&label=Profile%20Views&color=6366F1&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=1a1b27)
@@ -256,7 +256,7 @@ I embrace challenges, learn from failures, and celebrate progress. With dedicati
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 ### 💜 Crafted with Passion by Zainab Abdul Qayoom
 

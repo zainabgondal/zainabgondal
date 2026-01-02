@@ -1,120 +1,157 @@
 <div align="center">
-💜 Welcome to My Coding Universe 💜
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=42&fontAlignY=30&desc=Computer%20Science%20Student%20|%20Java%20Developer%20|%20DSA%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
-Show Image
+
+# 💜 Welcome to My Coding Universe 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zainab%20Abdul%20Qayoom&fontSize=42&fontAlignY=30&desc=Computer%20Science%20Student%20|%20Java%20%26%20C%2B%2B%20Developer%20|%20DSA%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=💻+Computer+Science+Student;☕+Java+%26+C%2B%2B+Developer;📊+Data+Structures+%26+Algorithms;🎨+Frontend+Development+Explorer;🚀+Learning+%26+Growing+Every+Day!;💡+Turning+Bugs+Into+Breakthroughs)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=zainabgondal&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/zainabgondal?label=Followers&style=for-the-badge&color=6366F1&labelColor=1a1b27" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/stars/zainabgondal?label=Stars&style=for-the-badge&color=6366F1&labelColor=1a1b27" alt="GitHub Stars" />
+
 </div>
 
-🌟 About Me
+---
+
+## 🌟 About Me
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-I am a Computer Science student 🎓 from Hyderabad, Pakistan 🇵🇰, passionate about software development and problem-solving. Currently focused on mastering Java programming, building strong foundations in algorithms, data structures, and clean code practices.
-🎯 Professional Profile
-javapublic class ZainabAbdulQayoom {
-    
-    // Professional Identity
-    private String role = "Computer Science Student";
-    private String location = "Hyderabad, Pakistan 🇵🇰";
-    private String currentFocus = "Java & DSA Mastery";
-    
-    // Skills & Technologies
-    private String[] languages = {"Java", "C++", "C", "HTML", "CSS", "JavaScript"};
-    private String[] learning = {"Data Structures", "Algorithms", "Frontend Development"};
-    private String[] tools = {"VS Code", "Git", "GitHub", "Linux", "IntelliJ IDEA"};
-    
-    // Learning Resources
-    private String primaryMentor = "CodeWithHarry";
-    
-    // What Drives Me
-    public void showPassion() {
-        System.out.println("☕ Mastering Java with CodeWithHarry");
-        System.out.println("📊 Building strong DSA foundations");
-        System.out.println("🎨 Exploring Frontend Development");
-        System.out.println("💡 Turning bugs into breakthroughs");
-        System.out.println("🚀 Growing stronger every day!");
-    }
-    
-    public String getMotivation() {
-        return "Every line of code is a step toward mastery! 💪";
-    }
-    
-    public String getMotto() {
-        return "Code is poetry written in logic! ✨";
-    }
-    
-    public static void main(String[] args) {
-        ZainabAbdulQayoom dev = new ZainabAbdulQayoom();
-        dev.showPassion();
-        System.out.println("\n" + dev.getMotivation());
-        System.out.println(dev.getMotto());
-    }
+
+I am a **Computer Science student** 🎓 from **Hyderabad, Pakistan** 🇵🇰, passionate about software development and problem-solving. Currently focused on mastering **Java programming** and strengthening my **C++ foundations**, building strong skills in **algorithms**, **data structures**, and clean code practices.
+
+### 🎯 Professional Profile
+
+```cpp
+namespace ZainabAbdulQayoom {
+    class Developer {
+        private:
+            string role = "Computer Science Student";
+            string location = "Hyderabad, Pakistan 🇵🇰";
+            string primaryFocus = "Java & DSA Mastery";
+            string secondaryFocus = "C++ Programming";
+            
+            // Skills & Technologies
+            vector<string> languages = {"Java", "C++", "C", "HTML", "CSS", "JavaScript"};
+            vector<string> learning = {"Data Structures", "Algorithms", "Frontend Development"};
+            vector<string> tools = {"VS Code", "IntelliJ IDEA", "Git", "GitHub", "Linux"};
+            
+            // Learning Resources
+            string javaMentor = "CodeWithHarry";
+            
+        public:
+            void showPassion() {
+                cout << "☕ Mastering Java with CodeWithHarry\n";
+                cout << "🔷 Strengthening C++ Fundamentals\n";
+                cout << "📊 Building strong DSA foundations\n";
+                cout << "🎨 Exploring Frontend Development\n";
+                cout << "💡 Turning bugs into breakthroughs\n";
+                cout << "🚀 Growing stronger every day!\n";
+            }
+            
+            string getMotivation() {
+                return "Every line of code is a step toward mastery! 💪";
+            }
+            
+            string getMotto() {
+                return "Code is poetry written in logic! ✨";
+            }
+    };
 }
+
+int main() {
+    ZainabAbdulQayoom::Developer dev;
+    dev.showPassion();
+    cout << "\n" << dev.getMotivation() << endl;
+    cout << dev.getMotto() << endl;
+    return 0;
+}
+```
+
 <br clear="right"/>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
+
 <table>
 <tr>
 <td width="50%" valign="top">
-📌 What I'm Working On
 
-🔭 Focus: Java Fundamentals & Core Concepts
-🌱 Learning: DSA in Java with CodeWithHarry
-🎨 Exploring: Frontend Development (HTML, CSS, JS)
-👯 Collaborate: Beginner-friendly Java Projects
-🤝 Need Help: Clean & Efficient Coding
-💬 Ask Me About: Java Basics & Learning Journey
-⚡ Fun Fact: Debugging = Learning! 🐛
+### 📌 What I'm Working On
+- ☕ **Primary Focus:** Java Fundamentals & Core Concepts
+- 🔷 **Secondary Focus:** C++ Programming & Mastery
+- 🌱 **Learning:** DSA in Java with **CodeWithHarry**
+- 📊 **Practicing:** Algorithms & Data Structures in Both Languages
+- 🎨 **Exploring:** Frontend Development (HTML, CSS, JS)
+- 👯 **Collaborate:** Beginner-friendly Java/C++ Projects
+- 🤝 **Need Help:** Clean & Efficient Coding
+- 💬 **Ask Me About:** Java & C++ Basics, Learning Journey
+- ⚡ **Fun Fact:** Debugging = Learning! 🐛
 
 </td>
 <td width="50%" valign="top">
-🎯 2026 Goals
 
- ✅ Master Java Fundamentals
- ✅ Start Learning DSA
- 🔄 Build 15+ Practice Projects
- 🔄 Contribute to Open Source
- 🔄 Learn DSA Comprehensively
- 🔄 Solve 100+ Coding Problems
- 🔄 Join Coding Competitions
- 🔄 Build Strong Portfolio
+### 🎯 2026 Goals
+- [x] ✅ Master C++ Fundamentals
+- [x] ✅ Master Java Fundamentals
+- [x] ✅ Start Learning DSA
+- [ ] 🔄 Build 15+ Practice Projects
+- [ ] 🔄 Contribute to Open Source
+- [ ] 🔄 Learn DSA Comprehensively
+- [ ] 🔄 Solve 100+ Coding Problems
+- [ ] 🔄 Join Coding Competitions
+- [ ] 🔄 Build Strong Portfolio
 
 </td>
 </tr>
 </table>
 
-💻 Tech Stack
+---
+
+## 💻 Tech Stack
+
 <div align="center">
-🔧 Programming Languages
+
+### 🔧 Programming Languages
+
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+<br><strong>Java</strong>
+<br><sub>Primary</sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+<br><strong>C++</strong>
+<br><sub>Core Skill</sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
+<br><strong>C</strong>
+<br><sub>Foundation</sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML5
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+<br><strong>HTML5</strong>
+<br><sub>Frontend</sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS3
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+<br><strong>CSS3</strong>
+<br><sub>Styling</sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>Scripting</sub>
 </td>
 </tr>
 </table>
-🛠️ Development Tools
+
+### 🛠️ Development Tools
+
 <table>
 <tr>
 <td align="center" width="96">
@@ -139,46 +176,69 @@ javapublic class ZainabAbdulQayoom {
 </td>
 </tr>
 </table>
-🌱 Currently Learning
-Show Image
-Show Image
-Show Image
+
+### 🌱 Currently Learning
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Frontend Dev](https://img.shields.io/badge/Frontend_Dev-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 </div>
 
-📊 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-📈 Contribution Activity
+
+### 📈 Contribution Activity
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zainabgondal&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10" alt="GitHub Streak" />
-📌 Repository Insights
+<img width="49%" src="https://streak-stats.demolab.com?user=zainabgondal&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=6366F1&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+
+### 📌 Repository Insights
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&border_radius=10" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=zainabgondal&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_radius=10&layout=compact" alt="Coding Stats" />
-📊 Contribution Graph
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=zainabgondal&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Contributed Repos" />
+
+### 📊 Contribution Graph
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&custom_title=Zainab's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area_color=6366F1&area=true&hide_border=true&radius=10" width="98%" alt="Contribution Graph"/>
-🏆 GitHub Trophies
+
+### 🏆 GitHub Trophies
+
 <img src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy Stats" width="98%"/>
+
 </div>
 
-🗺️ Learning Journey
+---
+
+## 🗺️ Learning Journey
+
 <div align="center">
+
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#C9D1D9','lineColor':'#6366F1','secondaryColor':'#4F46E5','tertiaryColor':'#4338CA'}}}%%
 graph LR
-    A[☕ Java Basics] --> B[🔄 Control Flow]
-    B --> C[📦 Functions/Methods]
-    C --> D[🏗️ OOP]
-    D --> E[📊 Data Structures]
-    E --> F[🧮 Algorithms]
-    F --> G[⚡ Advanced Java]
-    G --> H[🌐 Web Development]
-style A fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
-style B fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
-style C fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
-style D fill:#4F46E5,stroke:#C9D1D9,stroke-width:2px,color:#fff
-style E fill:#4338CA,stroke:#C9D1D9,stroke-width:2px,color:#fff
-style F fill:#3730A3,stroke:#C9D1D9,stroke-width:2px,color:#fff
-style G fill:#312E81,stroke:#C9D1D9,stroke-width:2px,color:#fff
-style H fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    A[🔷 C++ Basics] --> B[☕ Java Basics]
+    B --> C[🔄 Control Flow]
+    C --> D[📦 Functions/Methods]
+    D --> E[🏗️ OOP Concepts]
+    E --> F[📊 Data Structures]
+    F --> G[🧮 Algorithms]
+    G --> H[⚡ Advanced Programming]
+    H --> I[🌐 Web Development]
+    
+    style A fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
+    style B fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
+    style C fill:#6366F1,stroke:#C9D1D9,stroke-width:3px,color:#fff
+    style D fill:#4F46E5,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    style E fill:#4338CA,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    style F fill:#3730A3,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    style G fill:#312E81,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    style H fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
+    style I fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
+```
 
 </div>
 
@@ -217,7 +277,7 @@ style H fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
 <td align="center" width="150">
 <img src="https://img.icons8.com/fluency/96/000000/solving-problems.png" width="64"/>
 <br><b>Problem Solving</b>
-<br><sub>Logical thinking</sub>
+<br><b>Logical thinking</sub>
 </td>
 <td align="center" width="150">
 <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="64"/>
@@ -247,9 +307,12 @@ style H fill:#1E1B4B,stroke:#C9D1D9,stroke-width:2px,color:#fff
 <br>
 
 ### 🌟 **I'm Always Open To**
-🤝 Collaborating on beginner-friendly projects  |  💡 Discussing Java, DSA, and coding concepts
+
+```
+🤝 Collaborating on beginner-friendly projects  |  💡 Discussing Java, C++, DSA, and coding concepts
 🎓 Learning from experienced developers  |  🌟 Contributing to open source projects
 📚 Sharing knowledge and resources  |  💻 Building amazing projects together
+```
 
 </div>
 

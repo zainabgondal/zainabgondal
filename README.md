@@ -249,24 +249,9 @@ public class ZainabAbdulQayoom {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zainabgondal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabgondal&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" width="100%"/>
 

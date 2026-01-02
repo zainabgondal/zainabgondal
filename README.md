@@ -153,7 +153,7 @@ public class ZainabAbdulQayoom {
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=zainabgondal&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabgondal&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -161,13 +161,13 @@ public class ZainabAbdulQayoom {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&custom_title=Zainab's%20Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area_color=f85d7f&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainabgondal&custom_title=Zainab's%20Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f85d7f&point=ffffff&area_color=f85d7f&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=zainabgondal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
